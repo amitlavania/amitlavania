@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitlavania&label=Profile%20views&color=0e75b6&style=flat" alt="amitlavania" /> </p>
 
-- 🌱 I’m currently learning **React js ,flutter**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **Java,Html,Css,Javascript**
 
